@@ -1,0 +1,8 @@
+.header-container {
+  width: 100%;
+  max-width: 1500px; /* Adjust the max-width as needed */
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 10px; /* Adjust border-radius as needed */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

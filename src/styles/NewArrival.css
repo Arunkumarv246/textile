@@ -1,0 +1,46 @@
+/* NewArrival.css */
+
+.new-arrival {
+  padding: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+}
+
+.filters button {
+  padding: 5px 10px;
+  margin-top: 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* .product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product {
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: calc(25% - 20px);
+  box-sizing: border-box;
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+} */
